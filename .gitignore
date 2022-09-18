@@ -1,0 +1,5 @@
+license.txt
+package-lock.json
+node_modules
+electron-cpu-monitor
+dist
